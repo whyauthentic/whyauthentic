@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NightmareShark
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning Java
+- 📫 How to reach me Discord (NightmareShark#1337)
