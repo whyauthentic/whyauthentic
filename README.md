@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NightmareShark
+- 👋 Hi, I’m @Why_Authentic
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Java
-- 📫 How to reach me Discord (NightmareShark#1337)
+- 📫 How to reach me Discord (Why_Authentic#9792)
