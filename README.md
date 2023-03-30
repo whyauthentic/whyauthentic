@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Why_Authentic
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning Java
-- 📫 How to reach me Discord (Why_Authentic#9792)
+<div align="center">
+        <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=whyauthentic&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
+</div>
