@@ -49,6 +49,6 @@
 
   <br/>
 
-  ⭐ Feel free to check out my repos or stop by the stream :3
+  ⭐ Feel free to check out my repos or stop by the stream
 
 </div>
